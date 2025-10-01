@@ -25,5 +25,5 @@ The analysis includes data cleaning, visualization, and insights about music pop
 ## 🚀 How to Run
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/spotify-data-analysis.git
+   git clone https://github.com/sayan_hassan111/spotify-data-analysis.git
    cd spotify-data-analysis
