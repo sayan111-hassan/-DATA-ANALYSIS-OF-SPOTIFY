@@ -19,11 +19,3 @@ The analysis includes data cleaning, visualization, and insights about music pop
 ✔️ Exploratory Data Analysis (EDA)  
 ✔️ Popularity & trend visualizations  
 ✔️ Artist and song insights  
-
----
-
-## 🚀 How to Run
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/sayan_hassan111/spotify-data-analysis.git
-   cd spotify-data-analysis
