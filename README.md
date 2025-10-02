@@ -5,8 +5,8 @@ This project explores and analyzes a Spotify dataset using **Python** and **Goog
 The analysis includes data cleaning, visualization, and insights about music popularity, genres, and artists.
 
 📂 Project Structure
-- `Spotify_Project.ipynb` → Main Jupyter Notebook with the full analysis  
-- `dataset.csv` → Spotify dataset (upload manually if needed)
+- `Spotify_Project.ipynb` →  
+- `dataset.csv` → 
 - 🔧 Tools & Libraries
 - Python
 - Pandas
